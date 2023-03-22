@@ -1,4 +1,5 @@
-com\app\Login\LoginApplication.class
-com\app\Login\controller\UserController.class
-com\app\Login\repo\UserRepo.class
-com\app\Login\model\User.class
+com\app\model\User.class
+com\app\controller\UserController.class
+com\app\LoginApplication.class
+com\app\WebConfig.class
+com\app\repo\UserRepo.class
