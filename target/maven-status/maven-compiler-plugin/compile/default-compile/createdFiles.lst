@@ -1,5 +1,0 @@
-com\app\model\User.class
-com\app\controller\UserController.class
-com\app\LoginApplication.class
-com\app\WebConfig.class
-com\app\repo\UserRepo.class
